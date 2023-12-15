@@ -9,22 +9,22 @@ function Footer() {
         <p>Connect with me:</p>
         <ul>
           <li>
-            <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/13rstuart7" target="_blank" rel="noopener noreferrer">
               GitHub
             </a>
           </li>
           <li>
-            <a href="https://linkedin.com/in/username" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/reiken-stuart-2273732a4/" target="_blank" rel="noopener noreferrer">
               LinkedIn
             </a>
           </li>
           <li>
-            <a href="https://stackoverflow.com/users/1234567/username" target="_blank" rel="noopener noreferrer">
+            <a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer">
               Stack Overflow
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/username" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/StuartReiken" target="_blank" rel="noopener noreferrer">
               Twitter
             </a>
           </li>
