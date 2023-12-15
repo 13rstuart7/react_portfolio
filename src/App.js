@@ -23,6 +23,8 @@ function App() {
       <section>
         <Contact />
       </section>
+
+      <Footer />
 </div>
 
     </div>
