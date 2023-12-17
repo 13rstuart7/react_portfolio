@@ -3,7 +3,9 @@ import './App.css';
 import Header from "./components/Header"
 import Projects from "./components/Projects"
 import About from "./components/About"
-import Contact from './components/Contact';
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
+
 function App() {
   return (
     <div className="App">
@@ -27,6 +29,7 @@ function App() {
       <section>
         <Footer />
       </section>
+
 </div>
 
     </div>
