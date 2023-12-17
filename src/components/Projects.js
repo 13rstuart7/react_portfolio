@@ -1,8 +1,11 @@
-function Projects(){
-    return (
-        <section id="Portfolio">
-        <h1>Portfolio</h1>
-        <a href="https://13rstuart7.github.io/Horiseon/">
+// src/components/Projects.js
+
+import React from 'react';
+
+const Projects = () => {
+  return (
+    <div>
+      <a href="https://13rstuart7.github.io/Horiseon/">
           <img src="https://user-images.githubusercontent.com/135680232/253657057-e12cb131-1e1c-463d-b184-73f113541365.png" alt width="400px" height="200px" />
         </a>
         <a href="https://github.com/13rstuart7">
@@ -16,8 +19,8 @@ function Projects(){
         <a href="https://tersesocialmedia-production.up.railway.app/">
           <img src={require("./project2.png")} width ="400px" height="200px" />
         </a>
-      </section>
-    )
-}
+    </div>
+  );
+};
 
-export default Projects
+export default Projects;
