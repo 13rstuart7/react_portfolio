@@ -10,7 +10,7 @@ import {
   MDBListGroupItem,
 } from "mdb-react-ui-kit";
 
-// import LauraCV from ".../pages/laurakamcv-developer.pdf";
+
 
 export default function Resume() {
   return (
@@ -20,7 +20,7 @@ export default function Resume() {
           <MDBCardTitle>Competencies</MDBCardTitle>
           {/* download resume */}
           <a
-            href="https://docs.google.com/document/d/1Zlq4SaLyqowtNlhtAPlLTT6nyMN98CfYx37xHVxBSJM/edit"
+            href="https://docs.google.com/document/d/1NQ5PMCORTi9vUIIJXEZlBYEKpKIC3H5n/edit"
             target={"_blank"}
             download
             className="btn btn-primary"

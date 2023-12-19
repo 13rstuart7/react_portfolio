@@ -57,6 +57,11 @@ export default function AboutMe() {
                 LinkedIn {"   "}
               </a>
             </span>
+            <span>
+              <a href="https://docs.google.com/document/d/1NQ5PMCORTi9vUIIJXEZlBYEKpKIC3H5n/edit">
+                CV{"   "}
+              </a>
+            </span>
             {/* <p
           style={{
             fontSize: "15px",
