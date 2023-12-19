@@ -82,7 +82,7 @@ export default function Footer() {
         >
           © 2020 Copyright:
           <a className="text-dark" href="https://mdbootstrap.com/">
-            LK-Code Solutions
+            RS-Code Solutions
           </a>
         </div>
         {/* <!-- Copyright --> */}
@@ -234,7 +234,7 @@ export default function Footer() {
 //           className="text-center p-4"
 //           style={{ backgroundColor: "rgba(0, 0, 0, 0.05)" }}
 //         >
-//           © 2021 Copyright: LKSolutions, made with:
+//           © 2021 Copyright: RSSolutions, made with:
 //           <a className="text-reset fw-bold" href="https://mdbootstrap.com/">
 //             MDBootstrap.com
 //           </a>
