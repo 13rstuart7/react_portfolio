@@ -3,9 +3,9 @@ import {
   MDBCard,
   MDBCardBody,
   MDBCardTitle,
-  MDBCardText,
-  MDBBtn,
-  MDBCardFooter,
+  // MDBCardText,
+  // MDBBtn,
+  // MDBCardFooter,
   MDBListGroup,
   MDBListGroupItem,
 } from "mdb-react-ui-kit";
