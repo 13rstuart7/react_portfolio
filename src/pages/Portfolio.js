@@ -15,12 +15,12 @@ export default function Portfolio() {
     <div class="row row-cols-1 row-cols-sm-3 g-4">
       <div className="col">
         <div className="card w-60 h-40 m-5">
-          <img
-            className="imgScreenshot"
-            src={terseSocialMediaScreenshot}
-            class="card-img-top"
-            alt="Palm Springs Road"
-          />
+        <img
+          className="imgScreenshot"
+          src={terseSocialMediaScreenshot}
+          class="card-img-top"
+          alt="Palm Springs Road"
+        />
           <div className="card-body">
             <h5 className="card-title">Terse social Media App</h5>
             <p className="card-text">
