@@ -10,7 +10,7 @@ import {
   MDBBtn,
 } from "mdb-react-ui-kit";
 import { Link } from "react-router-dom";
-import ProfileImage from "./assets/reikenstuartProfileImg.png";
+import ProfileImage from "../assets/reikenstuartProfileImg.png";
 
 
 export default function AboutMe() {
