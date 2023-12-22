@@ -8,6 +8,7 @@ import WeatherDashboardScreenshot from "../assets/Weather-DashboardScreenshot.pn
 import DayplannerScreenshot from "../assets/DayplannerScreenshot.png";
 import PWDGeneratorScreenshot from "../assets/PWD-GeneratorScreenshot.png";
 import textEditorScreenshot from "../assets/text-editorScreenshot.png";
+import artBeatsScreenshot from "../assets/ArtBeats.png";
 
 //JSX 6 cards.
 export default function Portfolio() {
@@ -180,9 +181,9 @@ export default function Portfolio() {
 
       <div className="col">
         <div className="card w-60 h-40 m-5">
-          <img
+        <img
             className="imgScreenshot"
-            src="https://jeremyblau.github.io/ArtBeats/"
+            src={artBeatsScreenshot}
             class="card-img-top"
             alt="Palm Springs Road"
           />
