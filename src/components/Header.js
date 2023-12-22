@@ -8,7 +8,7 @@ export default function Header() {
       <div
         className="p-5 text-center bg-image"
         style={{
-          backgroundImage: `url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhHSiqzmcT6-1CpIWbWIBruOf2tmWLfZta_AQyfuPHYSFfXtj6MhuIfoMxjwZ515rzhiwEiLIOMPyreGLuI6q1FpWz3N7SMhX_EMkD7mOWh45E02xPrfemBxGIXAe0YJ8Rdf9Oq7A9aSKS7OGNtOFtbz9nuG_fK9f-2WW2qLhdnoEjLWpyskZnZmdta4w%2Fs1920%2FBEAUTIFUL-WALLPAPER-FOR-LAPTOP.webp&tbnid=PgB17NbJscwt6M&vet=12ahUKEwiX3YeOp5qDAxX9PUQIHSv-C1MQMyhaegUIARDIAg..i&imgrefurl=https%3A%2F%2Fwww.heroscreen.cc%2F2022%2F11%2Fwallpaper-laptop-beautiful-sunset.html&docid=I3X-PncBc_7YtM&w=1920&h=1080&q=background%20photos%20with%20laptop&ved=2ahUKEwiX3YeOp5qDAxX9PUQIHSv-C1MQMyhaegUIARDIAg")`,
+          backgroundImage: `url("https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80")`,
           height: "290px",
         }}
       >
