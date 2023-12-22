@@ -3,11 +3,11 @@ import React from "react";
 import { MDBBadge } from "mdb-react-ui-kit";
 import "./pages.css";
 
-import tersesocialmediaScreenshot from "../assets/terse-social-mediaScreenshot.png";
-import weatherdashboardScreenshot from "../assets/Weather-DashboardScreenshot.png";
+import terseSocialMediaScreenshot from "../assets/terse-social-mediaScreenshot.png";
+import WeatherDashboardScreenshot from "../assets/Weather-DashboardScreenshot.png";
 import DayplannerScreenshot from "../assets/DayplannerScreenshot.png";
 import PWDGeneratorScreenshot from "../assets/PWD-GeneratorScreenshot.png";
-import texteditScreenshot from "../assets/text-editorScreenshot.png";
+import textEditorScreenshot from "../assets/text-editorScreenshot.png";
 
 //JSX 6 cards.
 export default function Portfolio() {
