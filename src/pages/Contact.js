@@ -55,7 +55,7 @@ export default function Contact() {
         <MDBCardText>
           Let's add value to your company. I will always respond within 24 hours
         </MDBCardText>
-        <MDBCardText>laurakam91@gmail.com</MDBCardText>
+        <MDBCardText>13rstuart7@gmail.com</MDBCardText>
         <span>
           <a href="https://www.linkedin.com/in/reiken-stuart-2273732a4/">LinkedIn {"   "}</a>
         </span>
