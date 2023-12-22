@@ -17,7 +17,7 @@ export default function Portfolio() {
         <div className="card w-60 h-40 m-5">
           <img
             className="imgScreenshot"
-            src={terse-social-mediaScreeshot}
+            src={terseSocialMediaScreenshot}
             class="card-img-top"
             alt="Palm Springs Road"
           />
@@ -66,7 +66,7 @@ export default function Portfolio() {
         <div className="card w-60 h-40 m-5">
           <img
             className="imgScreenshot"
-            src={Weather-Dashboard}
+            src={WeatherDashboardScreenshot}
             class="card-img-top"
             alt="Hollywood Sign on The Hill"
           />
@@ -126,7 +126,7 @@ export default function Portfolio() {
         <div className="card w-60 h-40 m-5">
           <img
             className="imgScreenshot"
-            src={text-editorScreenshot}
+            src={textEditorScreenshot}
             class="card-img-top"
             alt="Palm Springs Road"
           />
