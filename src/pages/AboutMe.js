@@ -12,7 +12,7 @@ import {
 import { Link } from "react-router-dom";
 
 // profile picture and about me
-import ProfilePic from "/src/assets/IMG_2426.JPG";
+import ProfilePic from "/src/assets/reikenstuartProfileImg.png";
 
 export default function AboutMe() {
   return (
